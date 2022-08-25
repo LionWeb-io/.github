@@ -2,12 +2,12 @@
 
 The language engineering community around [MPS](http://jetbrains.com/mps/) is working on bringing a projectional language workbench into the cloud/browser. A rough vision of how the result could look like is summarized in [this paper](http://voelter.de/data/pub/APlatformForSystemsAndBusinessModeling.pdf). As of now, several relatively independent activities (are|have been) going on, including
 * ProjectIt/Freon by Jos Warmer, Anneke Kleppe (https://www.projectit.org/), a set of components and associated meta-languages geared towards creating projectional editors in the cloud/browser, 
-* MPS Server by Federico Tomassetti/Strumenta) (short description, URL)
-* WebEditKit by Federico Tomassetti/Strumenta) (short description, URL)
+* [MPSServer](https://github.com/Strumenta/MPSServer) by Strumenta. It is an http and websockets server that can be started from standard and headless MPS to permit interaction with MPS from outside it. It permits to read and modify models, trigger builds, get typesystem information, etc. There is also a TypeScript client library available on NPM. It is called [MPSServer-client](https://github.com/Strumenta/mpsserver-client)
+* [WebEditKit](https://github.com/Strumenta/webeditkit) by Strumenta. It is a prototypal framework for defining projectional editors that can interact with MPS through MPSServer
 * Modelix by itemis (https://github.com/modelix), an  open Source platform for models on the web,
 * Sergej's Service APIs (Sergej) [short description, URL]
 * JetBrains Projectional Web Editor (Alex) [short description, URL]
-* StarLasu (Federico, Strumenta), a set of libraries to define and work with ASTs in Kotlin, Java, Python, TypeScript
+* [StarLasu](https://github.com/Strumenta/starlasu) by Strumenta. It is a set of libraries to define and work with ASTs in Kotlin, Java, Python, TypeScript. They have been used for years in production
 
 These tools are independent and do not provide out-of-the-box interoperability. This is unfortunate because 
 * None of them provides everything that's needed for an LWB in the cloud 
