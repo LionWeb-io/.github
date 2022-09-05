@@ -4,7 +4,7 @@ The language engineering community around [MPS](http://jetbrains.com/mps/) is wo
 * ProjectIt/Freon by Jos Warmer, Anneke Kleppe (https://www.projectit.org/), a set of components and associated meta-languages geared towards creating projectional editors in the cloud/browser, 
 * [MPSServer](https://github.com/Strumenta/MPSServer) by Strumenta. It is an http and websockets server that can be started from standard and headless MPS to permit interaction with MPS from outside it. It permits to read and modify models, trigger builds, get typesystem information, etc. There is also a TypeScript client library available on NPM. It is called [MPSServer-client](https://github.com/Strumenta/mpsserver-client)
 * [WebEditKit](https://github.com/Strumenta/webeditkit) by Strumenta. It is a prototypal framework for defining projectional editors that can interact with MPS through MPSServer
-* Modelix by itemis (https://github.com/modelix), an  open Source platform for models on the web,
+* [Modelix](https://github.com/modelix) by itemis, an  open Source platform for models on the web,
 * Sergej's Service APIs (Sergej) [short description, URL]
 * JetBrains Projectional Web Editor (Alex) [short description, URL]
 * [StarLasu](https://github.com/Strumenta/starlasu) by Strumenta. It is a set of libraries to define and work with ASTs in Kotlin, Java, Python, TypeScript. They have been used for years in production
