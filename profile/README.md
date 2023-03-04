@@ -11,7 +11,7 @@ The LIonWeb initiative aims to facilitate the community-based development of lan
 
 ## Reference Architecture
 
-![Reference Architecture Diagram](ref-arch.png)
+![Reference Architecture Diagram](https://github.com/LIonWeb-org/.github/raw/main/profile/ref-arch.png)
 
 A **model** is a graph structure with nodes and edges and one primary containment hierarchy [B]. Nodes are typed by a reference to a concept (a node in the metamodel of the language) and edges are named and typed (with a primitive type or a concept). Nodes also have properties which have names and primitive types. Nodes are identified by unique IDs. A LIonWeb language -- or its metamodel -- is an instance of the LIonWeb meta-metamodel.
 
