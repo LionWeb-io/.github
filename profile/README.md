@@ -47,6 +47,7 @@ Currently, LIonWeb consists of nine developers, all with a long history in langu
 * Norman Koester, [itemis](http://itemis.de), Germany
 * [Sergej Koscejev](https://specificlanguages.com), Freelancer, Czech Republic
 * Sascha Lisson, [itemis](http://itemis.de), Germany
+* Eugen Schindler [Canon Production Printing](https://cpp.canon/), The Netherlands
 * Alex Shatalin, [Jetbrains (MPS Team)](https://www.jetbrains.com), Czech Republic
 * Niko Stotz, [F1RE](https://www.f1re.io), The Netherlands
 * Federico Tomassetti, [Strumenta](https://strumenta.com), Italy
