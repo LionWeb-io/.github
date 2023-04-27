@@ -52,6 +52,7 @@ Currently, LIonWeb consists of nine developers, all with a long history in langu
 * Federico Tomassetti, [Strumenta](https://strumenta.com), Italy
 * [Markus Voelter](http://voelter.de), Freelancer, Germany
 * Jos Warmer, [openmodeling](https://openmodeling.nl), The Netherlands
+* Eugen Schindler, Canon Production Printing, The Netherlands
 
 During the first half of 2023, we will slowly grow the set of participants based on invitation of existing participants. Later in 2023 we plan to open up for more participation.
 
