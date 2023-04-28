@@ -4,9 +4,19 @@
 The LIonWeb initiative aims to facilitate the community-based development of language engineering and modeling tools on the web. 
 </strong>
 
-1. The main focus is the definition of protocols for the communication between participating software components such as repositories and clients. To make this feasible, we also define a meta-metamodel as well as a reference architecture. 
+Through the LIonWeb initiative we are aiming to:
+
+1. Create an ecosystem of interoperable components. We believe that a lively ecosystem will facilitate the adoption of language engineering and modeling solutions, as it will reduce the vendor-lock risk. It will also make possible to quickly build more advanced solutions by mixing and matching components, potentially sourced from different vendors
+
+2. Lower the barriers for innovation, as incremental improvements can be defined on top of the existing libraries and components
+
+For reaching these goals we are working on these activities:
+
+1. First of all, we are defining protocols for the communication between participating software components such as repositories and clients. To make this feasible, we also define a meta-metamodel as well as a reference architecture. 
+
 2. Where appropriate, in order to support the protocols, LIonWeb defines programming language-level APIs to access models and metamodels and to encapsulate the protocols.  
-3. A third goal of LIonWeb is to serve as a collaboration hub for the developers of such components, to empower other software developers to develop web-based modeling solutions, and to educate public about the benefits of this approach.
+
+3. A third activity is to create a collaboration hub for the developers of such components, to empower other software developers to develop web-based modeling solutions, and to educate the public about the benefits of this approach.
 
 
 ## Reference Architecture
