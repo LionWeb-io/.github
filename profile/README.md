@@ -6,9 +6,9 @@ The LIonWeb initiative aims to facilitate the community-based development of lan
 
 Through the LIonWeb initiative we are aiming to:
 
-1. Create an ecosystem of interoperable components. We believe that a lively ecosystem will facilitate the adoption of language engineering and modeling solutions, as it will reduce the vendor-lock risk. It will also make possible to quickly build more advanced solutions by mixing and matching components, potentially sourced from different vendors
+1. Create an ecosystem of interoperable components. We believe that a lively ecosystem will facilitate the adoption of language engineering and modeling solutions, as it will reduce the vendor-lock risk. It will also make possible to quickly build more advanced solutions by mixing and matching components, potentially sourced from different vendors.
 
-2. Lower the barriers for innovation, as incremental improvements can be defined on top of the existing libraries and components
+2. Lower the barriers for innovation, as incremental improvements can be defined on top of the existing libraries and components.
 
 For reaching these goals we are working on these activities:
 
