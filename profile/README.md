@@ -1,12 +1,32 @@
 # LIonWeb -- Language Interfaces on the Web 
 
-<strong>
-The LIonWeb initiative aims to facilitate the community-based development of language engineering and modeling tools on the web. 
-</strong>
+## Mission
 
-1. The main focus is the definition of protocols for the communication between participating software components such as repositories and clients. To make this feasible, we also define a meta-metamodel as well as a reference architecture. 
-2. Where appropriate, in order to support the protocols, LIonWeb defines programming language-level APIs to access models and metamodels and to encapsulate the protocols.  
-3. A third goal of LIonWeb is to serve as a collaboration hub for the developers of such components, to empower other software developers to develop web-based modeling solutions, and to educate public about the benefits of this approach.
+<strong>To create an ecosystem of interoperable components for building
+language-oriented modeling tools on the web.</strong>
+
+We believe that a lively ecosystem will facilitate the adoption of
+language engineering and modeling solutions by reducing vendor lock-in.
+Development of advanced solutions will be accelerated by mixing and
+matching components, potentially sourced from different vendors or open
+source initiatives. It will also foster innovation, as incremental
+improvements can be defined on top of the existing libraries and
+components. 
+
+## Activities
+
+1. The main focus is the definition of protocols for the communication between 
+   participating software components such as repositories and clients. To make 
+   this feasible, we also define a meta-metamodel as well as a reference architecture. 
+   
+2. Where appropriate, in order to support the protocols, LIonWeb defines
+   programming language-level APIs to access models and metamodels and to
+   encapsulate the protocols.  
+
+3. A third activity is to create a collaboration hub for the developers of such 
+  components, to empower other software developers to develop web-based modeling 
+  solutions, and to educate the public about the benefits of this approach.
+
 
 
 ## Reference Architecture
