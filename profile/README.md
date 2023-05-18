@@ -61,19 +61,18 @@ This project will not provide production-quality implementations for the reposit
 
 ## Participation
 
-Currently, LIonWeb consists of nine developers, all with a long history in language engineering and modeling tools (listed in alphabetical order)
+Currently, LIonWeb consists of ten developers, all with a long history in language engineering and modeling tools (listed in alphabetical order)
 
 * [Meinte Boersma](https://www.dslconsultancy.com), Freelancer, The Netherlands
 * Norman Koester, [itemis](http://itemis.de), Germany
 * [Sergej Koscejev](https://specificlanguages.com), Freelancer, Czech Republic
 * Sascha Lisson, [itemis](http://itemis.de), Germany
-* Eugen Schindler [Canon Production Printing](https://cpp.canon/), The Netherlands
 * Alex Shatalin, [Jetbrains (MPS Team)](https://www.jetbrains.com), Czech Republic
 * Niko Stotz, [F1RE](https://www.f1re.io), The Netherlands
 * Federico Tomassetti, [Strumenta](https://strumenta.com), Italy
 * [Markus Voelter](http://voelter.de), Freelancer, Germany
 * Jos Warmer, [openmodeling](https://openmodeling.nl), The Netherlands
-* Eugen Schindler, Canon Production Printing, The Netherlands
+* Eugen Schindler [Canon Production Printing](https://cpp.canon/), The Netherlands
 
 During the first half of 2023, we will slowly grow the set of participants based on invitation of existing participants. Later in 2023 we plan to open up for more participation.
 
