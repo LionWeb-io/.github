@@ -13,6 +13,9 @@ source initiatives. It will also foster innovation, as incremental
 improvements can be defined on top of the existing libraries and
 components. 
 
+## Documentation
+Please find an overview at https://lionweb-org.github.io/organization/ 
+
 ## Activities
 
 1. The main focus is the definition of protocols for the communication between 
