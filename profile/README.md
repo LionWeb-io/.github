@@ -16,6 +16,8 @@ components.
 ## Documentation
 Please find an overview at https://lionweb-org.github.io/organization/ 
 
+We also gave a talk at MPS Meetup 2023 ([slides](LIonWeb%20at%20MPS%20Meetup%202023.pdf), [video](https://www.youtube.com/watch?v=dzZdjqbRzuU&list=PLQ176FUIyIUZ6e7lGYfyzYlnNkZiB2n9v&index=13))
+
 ## Activities
 
 1. The main focus is the definition of protocols for the communication between 
