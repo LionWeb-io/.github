@@ -79,8 +79,9 @@ Currently, LIonWeb consists of ten developers, all with a long history in langua
 * [Markus Voelter](http://voelter.de), Freelancer, Germany
 * Jos Warmer, [openmodeling](https://openmodeling.nl), The Netherlands
 
-During the first half of 2023, we will slowly grow the set of participants based on invitation of existing participants. Later in 2023 we plan to open up for more participation.
+During the first half of 2023, we slowly grew the set of participants based on invitation of existing participants.
 
+[Join us on Slack](https://lionweb.slack.com/) for interesting discussions.
 
 
 ## Legal
