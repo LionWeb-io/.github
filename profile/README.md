@@ -93,7 +93,7 @@ All our specifications and code is released as open source under the [Apache 2.0
 
 All of the initial participants have a history of working with or on [Jetbrains MPS](http://jetbrains.com/mps/), and we all appreciate its revolutionary approach of projectional editing. Most of us have also worked with [EMF](https://www.eclipse.org/modeling/emf/) and tools on top of it, in particular, [Xtext](https://www.eclipse.org/Xtext/). However, over the last few years, the need to run "something like MPS" in the browser has increased, and many of the LIonWeb founders have started developing ideas and tools around web-based language workbenches:
 
-* [Freon](https://www.projectit.org/) by Jos Warmer, Anneke Kleppe
+* [Freon](https://www.freon4dsl.dev/) by Jos Warmer, Anneke Kleppe
 * [MPSServer](https://github.com/Strumenta/MPSServer) by Strumenta. It is an http and websockets server that can be started from standard and headless MPS to permit interaction with MPS from outside it. It permits to read and modify models, trigger builds, get typesystem information, etc. There is also a TypeScript client library available on NPM. It is called [MPSServer-client](https://github.com/Strumenta/mpsserver-client)
 * [WebEditKit](https://github.com/Strumenta/webeditkit) by Strumenta. It is a prototypal framework for defining projectional editors that can interact with MPS through MPSServer
 * [Modelix](https://github.com/modelix) by itemis, an open Source platform for models on the Web
