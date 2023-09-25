@@ -81,7 +81,7 @@ Currently, LionWeb consists of ten developers, all with a long history in langua
 
 During the first half of 2023, we slowly grew the set of participants based on invitation of existing participants.
 
-[Join us on Slack]([https://lionweb.slack.com/](https://join.slack.com/t/lionweb/shared_invite/zt-1zltq8eqv-QJmtsZA8_oscCrO8HOp3FA)) for interesting discussions.
+[Join us on Slack](https://join.slack.com/t/lionweb/shared_invite/zt-1zltq8eqv-QJmtsZA8_oscCrO8HOp3FA) for interesting discussions.
 
 
 ## Legal
