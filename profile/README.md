@@ -14,9 +14,9 @@ improvements can be defined on top of the existing libraries and
 components. 
 
 ## Documentation
-Please find an overview at https://lionweb-org.github.io/organization/ 
+Please find an overview at https://lionweb-io.github.io/specification/
 
-We also gave a talk at MPS Meetup 2023 ([slides](https://github.com/LionWeb-org/.github/raw/main/profile/LIonWeb%20at%20MPS%20Meetup%202023.pdf), [video](https://www.youtube.com/watch?v=dzZdjqbRzuU&list=PLQ176FUIyIUZ6e7lGYfyzYlnNkZiB2n9v&index=13))
+We also gave a talk at MPS Meetup 2023 ([slides](https://github.com/LionWeb-io/.github/raw/main/profile/LIonWeb%20at%20MPS%20Meetup%202023.pdf), [video](https://www.youtube.com/watch?v=dzZdjqbRzuU&list=PLQ176FUIyIUZ6e7lGYfyzYlnNkZiB2n9v&index=13))
 
 ## Activities
 
@@ -36,7 +36,7 @@ We also gave a talk at MPS Meetup 2023 ([slides](https://github.com/LionWeb-org/
 
 ## Reference Architecture
 
-![Reference Architecture Diagram](https://github.com/LionWeb-org/.github/raw/main/profile/ref-arch.png)
+![Reference Architecture Diagram](https://github.com/LionWeb-io/.github/raw/main/profile/ref-arch.png)
 
 A **model** is a graph structure with nodes and edges and one primary containment hierarchy [B]. Nodes are typed by a reference to a concept (a node in the metamodel of the language) and edges are named and typed (with a primitive type or a concept). Nodes also have properties which have names and primitive types. Nodes are identified by unique IDs. A LionWeb language -- or its metamodel -- is an instance of the LionWeb meta-metamodel.
 
